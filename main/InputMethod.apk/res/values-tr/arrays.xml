@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ARRAY_SPDIY_FILENAMES">
+        <item>wr_</item>
+        <item>xh_</item>
+        <item>pyjj_</item>
+        <item>zn_</item>
+        <item>zg_</item>
+        <item>zrm_</item>
+    </string-array>
+    <string-array name="ARRAY_SPDIY_TYPES">
+        <item>Microsoft shuangpin</item>
+        <item>Xiaohe shuangpin</item>
+        <item>Pinyin jiajia</item>
+        <item>Zhineng ABC</item>
+        <item>Huayu shuangpin</item>
+        <item>Ziranma</item>
+    </string-array>
+    <string-array name="BDSKT">
+        <item>gen</item>
+        <item>bh</item>
+        <item>def_9</item>
+        <item>def_26</item>
+        <item>en_9</item>
+        <item>en_9s</item>
+        <item>en_26</item>
+        <item>en_26s</item>
+        <item>num_9</item>
+        <item>num_26</item>
+        <item>py_9</item>
+        <item>py_26</item>
+        <item>hw_grid</item>
+        <item>hw_full</item>
+        <item>chtmp</item>
+        <item>zy</item>
+        <item>cj</item>
+        <item>sp_phone</item>
+        <item>sp_phone_2</item>
+        <item>sp_num</item>
+        <item>sp_num_2</item>
+        <item>email</item>
+        <item>sp_unlock</item>
+        <item>num_unlock</item>
+    </string-array>
+    <string-array name="BDchar">
+        <item>，</item>
+        <item>。</item>
+        <item>？</item>
+        <item>！</item>
+        <item>……</item>
+        <item>“”</item>
+        <item>（）</item>
+        <item>‘’</item>
+        <item>《》</item>
+    </string-array>
+    <string-array name="CANDURL">
+        <item>.com</item>
+        <item>.cn</item>
+        <item>.net</item>
+        <item>/</item>
+        <item>\@</item>
+        <item>.org</item>
+        <item>-</item>
+        <item>_</item>
+        <item>\?</item>
+        <item>&amp;</item>
+    </string-array>
+    <string-array name="CAND_SORT">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Ses</item>
+        <item>Metnin için ses dönüştürücü</item>
+        <item>Medya</item>
+        <item>Daha fazla giriş yöntemi</item>
+        <item>Düzenle</item>
+        <item>Kopyala, yapıştır ve daha fazlası</item>
+        <item>İfade</item>
+        <item>Sözler, ifadeler ve daha fazlası</item>
+    </string-array>
+    <string-array name="CLRINDEX">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="CLRNAME">
+        <item>Varsayılan</item>
+        <item>Zümrüt</item>
+        <item>Kahverengi</item>
+        <item>Yeşil</item>
+        <item>Sarı</item>
+        <item>Mor</item>
+        <item>Karpuz yeşili</item>
+        <item>Mavi</item>
+    </string-array>
+    <string-array name="CONTACTINFO">
+        <item>Telefon</item>
+        <item>Telefon</item>
+        <item>Adres</item>
+        <item>E-posta</item>
+        <item>Şirket</item>
+        <item>Şirket adresi</item>
+    </string-array>
+    <string-array name="CPIDXNAME">
+        <item>İlk yer</item>
+        <item>İkinci yer</item>
+        <item>Üçüncü yer</item>
+        <item>Dördüncü yer</item>
+        <item>Beşinci yer</item>
+    </string-array>
+    <string-array name="CPIDXVALUE">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="DELFILES">
+        <item>Hz.bin</item>
+        <item>Ft.bin</item>
+        <item>bh2.bin</item>
+        <item>sym2.bin</item>
+        <item>syml.bin</item>
+        <item>Wb.bin</item>
+        <item>en2.bin</item>
+        <item>sym.ini</item>
+        <item>huoxingwen.bin</item>
+        <item>otherword.bin</item>
+        <item>keyword.bin</item>
+        <item>bbm</item>
+        <item>track</item>
+        <item>symbol</item>
+        <item>inputcore_20131125</item>
+        <item>logcatvr</item>
+        <item>logcatmutir</item>
+        <item>logcatop</item>
+        <item>logcatbm</item>
+        <item>logcatsx</item>
+        <item>CLog</item>
+        <item>ns</item>
+        <item>instl</item>
+        <item>logcatsm</item>
+        <item>logcatsu</item>
+    </string-array>
+    <string-array name="DIRS">
+        <item>log</item>
+        <item>ULog</item>
+        <item>ch.tmp</item>
+        <item>en.tmp</item>
+        <item>ck.tmp</item>
+        <item>ch3.txt</item>
+        <item>en2.txt</item>
+        <item>/sdcard/baidu/</item>
+        <item>/sdcard/baidu/ime/</item>
+        <item>port/</item>
+        <item>land/</item>
+        <item>skink/</item>
+        <item>keycode</item>
+        <item>ime.apk</item>
+        <item>index.htm</item>
+        <item>help.zip</item>
+        <item>back.png</item>
+        <item>bar.png</item>
+        <item>icon.png</item>
+        <item>cphrase.ini</item>
+        <item>fsw</item>
+        <item>zh/</item>
+        <item>default.css</item>
+        <item>info</item>
+        <item>res/</item>
+        <item>skins/</item>
+        <item>k12</item>
+        <item>k26</item>
+        <item>cfrom</item>
+        <item>custtb</item>
+        <item>mylist</item>
+        <item>theme/</item>
+        <item>ipt/</item>
+        <item>css.ini</item>
+        <item>demo.png</item>
+        <item>logcatbm</item>
+        <item>logcatsx</item>
+        <item>logcatsm</item>
+        <item>logcatsu</item>
+        <item>/sdcard/baidu/ime/.bimm/</item>
+        <item>fresh</item>
+        <item>logcatvr</item>
+        <item>logcatmutir</item>
+        <item>ALog</item>
+        <item>logcatop</item>
+        <item>Info.txt</item>
+        <item>Token.txt</item>
+        <item>cikuresult.tmp</item>
+        <item>channel</item>
+        <item>sym.ini</item>
+        <item>mmlog</item>
+        <item>CLog</item>
+        <item>sp/</item>
+        <item>instl</item>
+        <item>/sdcard/baidu/ime/bless/</item>
+        <item>core.debug.log</item>
+        <item>adsdel</item>
+        <item>syms/whaleH</item>
+        <item>syms/whaleL</item>
+        <item>syms/chargroup</item>
+        <item>.emoji/</item>
+        <item>relations.ini</item>
+        <item>info.ini</item>
+        <item>emojiorder.txt</item>
+        <item>.freshword/</item>
+        <item>emoji.bin</item>
+        <item>id.txt</item>
+        <item>syms/charline</item>
+        <item>en/</item>
+        <item>whitelist</item>
+    </string-array>
+    <string-array name="EXTS">
+        <item></item>
+        <item>.bds</item>
+        <item>.til</item>
+        <item>.ini</item>
+        <item>.png</item>
+        <item>.tmpu</item>
+        <item>.txt</item>
+        <item>.bin</item>
+        <item>.bcd</item>
+        <item>.pop</item>
+        <item>.cnd</item>
+        <item>.bdt</item>
+        <item>.apk</item>
+        <item>.cz</item>
+        <item>.wtm</item>
+        <item>.wtx</item>
+        <item>.wtp</item>
+        <item>.bde</item>
+    </string-array>
+    <string-array name="FHchar">
+        <item>.</item>
+        <item>%</item>
+        <item>$</item>
+        <item>￥</item>
+        <item>=</item>
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="HWFILES">
+        <item>wtmain.bin</item>
+        <item>wtexp.bin</item>
+        <item>wtphrase.bin</item>
+    </string-array>
+    <string-array name="IMEOPT">
+        <item>Girişi değiştir</item>
+        <item>Düzenle</item>
+        <item>Numara</item>
+        <item>Açılır sözlüğü güncelle</item>
+        <item>Giriş ayarı</item>
+        <item>Pinyin</item>
+        <item>HWriting</item>
+        <item>Wubi</item>
+        <item>Bihua</item>
+        <item>Bihua half</item>
+        <item>Özel ayarlar</item>
+        <item>Kelime derneği</item>
+        <item>TR</item>
+        <item>T26</item>
+        <item>T9</item>
+    </string-array>
+    <string-array name="IPTFILES">
+        <item>Hz.bin</item>
+        <item>Uz.bin</item>
+        <item>Cell.bin</item>
+        <item>Ft.bin</item>
+        <item>bh2.bin</item>
+        <item>ue2.bin</item>
+        <item>sym2.bin</item>
+        <item>syml.bin</item>
+        <item>phrase.bin</item>
+        <item>contact.bin</item>
+        <item>def.bin</item>
+        <item>Wb.bin</item>
+        <item>en2.bin</item>
+        <item>gram.bin</item>
+        <item>keyword.bin</item>
+        <item>ttffilter.ini</item>
+        <item>Uzw.bin</item>
+        <item>huoxingwen.bin</item>
+        <item>otherword.bin</item>
+        <item>cangjie.bin</item>
+        <item>hz_zy.bin</item>
+        <item>cz_zy.bin</item>
+    </string-array>
+    <string-array name="LISTPSWD">
+        <item>\?</item>
+        <item>!</item>
+        <item>/</item>
+        <item>\@</item>
+        <item>~</item>
+        <item>\#</item>
+        <item>$</item>
+        <item>%</item>
+        <item>^</item>
+        <item>*</item>
+        <item>(</item>
+        <item>)</item>
+        <item>_</item>
+        <item>+</item>
+    </string-array>
+    <string-array name="LISTURL">
+        <item>.</item>
+        <item>www.</item>
+        <item>.com</item>
+        <item>.cn</item>
+        <item>.net</item>
+        <item>/</item>
+        <item>\@</item>
+        <item>.org</item>
+        <item>-</item>
+        <item>_</item>
+    </string-array>
+    <string-array name="MARKS">
+        <item>Düşük</item>
+        <item>Yüksek</item>
+        <item>İnce</item>
+        <item>Kalın</item>
+        <item>Hızlı</item>
+        <item>Yavaş</item>
+        <item>Zayıf</item>
+        <item>Güçlü</item>
+        <item>Küçük</item>
+        <item>Büyük</item>
+    </string-array>
+    <string-array name="SKINRES">
+        <item>320/</item>
+        <item>res/</item>
+        <item>res/</item>
+        <item>480/</item>
+        <item>res/</item>
+        <item>res/</item>
+        <item>720/</item>
+        <item>res/</item>
+        <item>res/</item>
+        <item>x80/</item>
+        <item>res/</item>
+        <item>res/</item>
+    </string-array>
+    <string-array name="SYM_LIST">
+        <item>Ortak</item>
+        <item>Emoji</item>
+        <item>İfade</item>
+    </string-array>
+    <string-array name="SYSFILES">
+        <item>inputcore_20131125</item>
+        <item>setting</item>
+        <item>sp26.ini</item>
+        <item>sp10.ini</item>
+        <item>symcc</item>
+    </string-array>
+    <string-array name="VOICEMSG">
+        <item>İnternete bağlanılamadı</item>
+        <item>Sistem meşgul. Daha sonra deneyin</item>
+        <item>Ses net değil. Lütfen tekrar deneyin</item>
+    </string-array>
+    <string-array name="ensort">
+        <item>Aday uzunluğuna göre sırala</item>
+        <item>Karaktere göre sırala</item>
+        <item>Aday frekansına göre sırala</item>
+    </string-array>
+    <string-array name="freqname">
+        <item>Her 3 gün</item>
+        <item>Her 7 gün</item>
+        <item>Her 15 gün</item>
+        <item>Her 30 gün</item>
+        <item>Yenileme</item>
+    </string-array>
+    <string-array name="freqvalue">
+        <item>3</item>
+        <item>7</item>
+        <item>15</item>
+        <item>30</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="hardtip">
+        <item>【Shift + boşluk】 dil anahtarı, 【ALT + boşluk】 sembol girişini değiştir</item>
+        <item>【Shift + enter】 giriş türünü değiştir</item>
+        <item>【Shift + enter】 ingilizce modunu seç</item>
+        <item>【U、I、O、J、K】 eşleştirme</item>
+        <item>P joker karakter，L ayırıcı</item>
+    </string-array>
+    <string-array name="keymap_guider_infos">
+        <item>9 anahtar</item>
+        <item>26 anahtar</item>
+        <item>El yazısı klavye</item>
+        <item>Strokes Klavye</item>
+        <item>Wubi klavye</item>
+    </string-array>
+    <string-array name="keymapheight">
+        <item>Varsayılan</item>
+        <item>En yüksek</item>
+        <item>En düşük</item>
+    </string-array>
+    <string-array name="keymapnames">
+        <item>Pinyin</item>
+        <item>En</item>
+        <item>HWriting</item>
+        <item></item>
+        <item>Bihua</item>
+        <item>Zhuyin</item>
+        <item>Cangjie</item>
+        <item>Def</item>
+        <item>T9</item>
+        <item>T26</item>
+        <item>Half</item>
+        <item>Full</item>
+        <item>Wubi</item>
+    </string-array>
+    <string-array name="listvalue">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="loadword">
+        <item>Yaygın kullanılan kelimeler</item>
+        <item>Yaygın veya nadiren kullanılan kelimeler</item>
+    </string-array>
+    <string-array name="logonames_fh">
+        <item>9 anahtar</item>
+        <item>26 anahtar</item>
+        <item>İngilizce 26 anahtar</item>
+        <item>inme girişi</item>
+        <item>Yarım ekran el yazısı</item>
+        <item>Wubi</item>
+    </string-array>
+    <string-array name="logonames_gh">
+        <item>9 tuşları Pinyin</item>
+        <item>Alfabe 26 anahtar</item>
+        <item>İngilizce 26 anahtar</item>
+        <item>inme girişi</item>
+        <item>Yarım ekran el yazısı</item>
+        <item>Wubi</item>
+    </string-array>
+    <string-array name="mm_gra_btn">
+        <item>Temizle</item>
+        <item>Boya fırçası</item>
+        <item>Arka plan</item>
+        <item>Kauçuk</item>
+        <item>İptal et</item>
+    </string-array>
+    <string-array name="mm_hw_btn">
+        <item>Temizle</item>
+        <item>Renk</item>
+        <item>Arka plan</item>
+        <item>Wrap</item>
+        <item>İptal et</item>
+    </string-array>
+    <string-array name="mm_pnt_btn">
+        <item>Temizle</item>
+        <item>Duvar yazısı</item>
+        <item>Kağıt</item>
+        <item>Kelime</item>
+        <item>İptal et</item>
+    </string-array>
+    <string-array name="networksyn">
+        <item>Tüm kullanıcı sözlüğünü senkronize et</item>
+        <item>Yerli kullanıcı sözlüğünü senkronize et</item>
+    </string-array>
+    <string-array name="sliding">
+        <item>Düzeni değiştir</item>
+        <item>Giriş türü anahtarı</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="themeparse">
+        <item>Kameradan</item>
+        <item>Galeriden</item>
+    </string-array>
+    <string-array name="wordassco">
+        <item>Bir kez tahmin</item>
+        <item>Sürekli tahmin</item>
+        <item>Tahmini kapat</item>
+    </string-array>
+    <string-array name="yunshuru">
+        <item>Sadece wifi</item>
+        <item>Tüm ağ ortamı</item>
+        <item>Kapalı</item>
+    </string-array>
+</resources>

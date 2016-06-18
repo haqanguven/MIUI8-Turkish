@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d uygulama için veri izleme kullanılmıyor</item>
+        <item quantity="one">%d uygulama için veri izleme kullanılmıyor</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">%d uygulama için veri izleme kullanılıyor</item>
+        <item quantity="one">%d uygulama için veri izleme kullanılıyor</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d uygulama optimize edildi</item>
+        <item quantity="one">%d uygulama optimize edildi</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d uygulama optimize edilebilir</item>
+        <item quantity="one">%d uygulama optimize edilebilir</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d uygulama veri tasarrufu kullanıyor</item>
+        <item quantity="one">%d uygulama veri tasarrufu kullanıyor</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d uygulama veri tasarrufu kullanmıyor</item>
+        <item quantity="one">%d uygulama veri tasarrufu kullanmıyor</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">%d gün önce kullanıldı</item>
+        <item quantity="one">Dün kullanıldı</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">%d uygulama ara</item>
+        <item quantity="one">%d uygulama ara</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d uygulama veri dolaşımını kullanabilir</item>
+        <item quantity="one">%d uygulama veri dolaşımını kullanabilir</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d uygulama veri dolaşımını kullanamaz</item>
+        <item quantity="one">%d uygulama veri dolaşımını kullanamaz</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d uygulama bulundu</item>
+        <item quantity="one">%d uygulama bulundu</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d gün "</item>
+        <item quantity="one">"%d gün "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d saat "</item>
+        <item quantity="one">"%d saat "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d dakika "</item>
+        <item quantity="one">"%d dakika "</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">In %1$d minutes</item>
+        <item quantity="one">In %1$d min</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Resolved %d battery issues</item>
+        <item quantity="one">Resolved %d battery issue</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Found %d battery issues</item>
+        <item quantity="one">Found %d battery issue</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d battery issues</item>
+        <item quantity="one">%d battery issue</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d items can be optimized</item>
+        <item quantity="one">%d item can be optimized</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d uygulamanın otomatik başlama izni var</item>
+        <item quantity="one">%d uygulamanın otomatik başlama izni var</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d uygulamanın otomatik başlama izni yok</item>
+        <item quantity="one">%d uygulamanın otomatik başlama izni yok</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d izin</item>
+        <item quantity="one">%d izin</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d uygulamanın kök erişim izni var</item>
+        <item quantity="one">%d uygulamanın kök erişim izni var</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d uygulamanın kök erişim izni yok</item>
+        <item quantity="one">%d uygulamanın kök erişim izni yok</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d uygulama için güncelleme mevcut</item>
+        <item quantity="one">%d uygulama için güncelleme mevcut</item>
+    </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d apps contain privacy risks</item>
+        <item quantity="one">%d app contains privacy risks</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Şifre en az %d harf içermelidir</item>
+        <item quantity="one">Şifre en az 1 harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Şifre en az %d küçük harf içermelidir</item>
+        <item quantity="one">Şifre en az 1 küçük harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Şifre en az %d büyük harf içermelidir</item>
+        <item quantity="one">Şifre en az 1 büyük harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Şifre en az %d numara içermelidir</item>
+        <item quantity="one">Şifre en az 1 numara içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Şifre en az %d özel sembol içermelidir</item>
+        <item quantity="one">Şifre en az 1 özel sembol içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Şifre en az %d diğer karakter içermelidir</item>
+        <item quantity="one">Şifre en az 1 diğer karakter içermelidir</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d uygulama kilitlendi</item>
+        <item quantity="one">%d uygulama kilitlendi</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d uygulama kilitlenmedi</item>
+        <item quantity="one">%d uygulama kilitlenmedi</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">%d uygulama arasında ara</item>
+        <item quantity="one">%d uygulama arasında ara</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d uygulama bulundu</item>
+        <item quantity="zero">0 uygulama bulundu</item>
+        <item quantity="one">%d uygulama bulundu</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s payment risks</item>
+        <item quantity="one">%s payment risk</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s payment apps are protected</item>
+        <item quantity="one">%s payment app is protected</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s apps are protected</item>
+        <item quantity="one">%s app is protected</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s apps are not protected</item>
+        <item quantity="one">%s app is not protected</item>
+    </plurals>
+</resources>

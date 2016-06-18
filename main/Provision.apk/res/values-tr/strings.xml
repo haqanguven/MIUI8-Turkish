@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Hoş geldiniz</string>
+    <string name="input_method_setting">Varsayılan klavyeyi seçin</string>
+    <string name="input_method_category">E-posta, not yazma ve diğer alanlarda kullanmak için varsayılan klavyenizi seçin. İstediğiniz her zaman üçüncü parti klavye uygulamalarını yükleyebileceğinizi unutmayın</string>
+    <string name="provision_inputmethod_policy_description">"
+Seçilen klavyeler: "</string>
+    <string name="provision_inputmethod_policy_description1">Gizlilik politikası</string>
+    <string name="multisim_settings_title">2 Sim kart algılandı</string>
+    <string name="multisim_settings_category">Sim kart ayarları</string>
+    <string name="sim_card_detection">Sim kartı takın</string>
+    <string name="sim_card_detecting_title">Sim kart kontrolü</string>
+    <string name="sim_card_detection_info">Sim kartınızı cihazınıza yerleştirmek için lütfen cihazla birlikte gelen yönergeleri okuyun</string>
+    <string name="sim_card_detecting">Sim kart kontrol ediliyor</string>
+    <string name="other_settings">Diğer ayarlar</string>
+    <string name="other_settings_location">Konum</string>
+    <string name="other_settings_location_summary">Uygulamaların konumunuza erişmesine izin ver</string>
+    <string name="other_settings_user_experience">Kullanıcı deneyimi programı</string>
+    <string name="other_settings_user_experience_summary">"Anonim kullanıcı verileri göndererek Miui'nin gelişimine katkıda bulunun (%s)"</string>
+    <string name="other_settings_user_experience_summary1">Gizlilik politikası</string>
+    <string name="back">Geri</string>
+    <string name="next">İleri</string>
+    <string name="skip_underline">Bu adımı atla</string>
+    <string name="sim_dectection_next">Devam</string>
+    <string name="shut_down">Kapat</string>
+    <string name="sim_redetection">Tekrar kontrol et</string>
+    <string name="congratulation_title">Kurulum tamamlandı</string>
+    <string name="congratulation_label">Kullanmaya hazırsınız</string>
+    <string name="pref_title_voice_slot">Tercih edilen ses Sim kartı</string>
+    <string name="pref_title_data_slot">Tercih edilen veri Sim kartı</string>
+    <string name="summary_not_set">Ayarlı değil</string>
+    <string name="ime_privacy_policy">Seçili klavyenin gizlilik politikası</string>
+    <string name="ime_privacy_policy_no_network">İnternet bağlantısı yok. Bu klavyenin Gizlilik Politikasını %s adresinde görüntüleyin</string>
+    <string name="terms_of_use">Şartlar ve koşullar</string>
+    <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Hangi bilgileri topladığımızı, onları nasıl kullandığımızı ve hangi tercihlerin sizin için uygun olduğunu anlayabilmeniz için lütfen hizmet şartları ve gizlilik politikasını okuyun
+
+Miui kullanmaya başlamadan önce hizmet şartları ve gizlilik politikasını kabul etmeniz gerekmektedir"</string>
+    <string name="user_agreement">Hizmet şartları</string>
+    <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="agree">Kabul et</string>
+    <string name="disagree">İptal et</string>
+    <string name="network_access_warning">"Mi hizmetlerini etkinleştirebilmeniz için internete bağlanmanız gerekmektedir"</string>
+    <string name="setting_locale">Bölge ayarlanıyor</string>
+    <string name="agree_terms">Hizmet şartları ve gizlilik politikasını okudum ve kabul ediyorum</string>
+    <string name="miui_terms_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>
+    <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>
+    <string name="locale_picker_title">Bölgenizi seçin</string>
+    <string name="install_preinstall_app">Uygulamalar yükleniyor</string>
+	<string name="title_fingerprint">Parmak izini ekle</string>
+    <string name="desc_fingerprint">Mi ödeme işlemleri doğrulama ya da uygulamalarda ve hizmetlerde oturum açmada cihazınızın kilidini açmak için parmak izinizi kullanın</string>
+    <string name="desc_extra_fingerprint" />
+    <string name="next_fingerprint">İleri</string>
+	<string name="desc_extra_international_fingerprint" />
+    <string name="desc_international_fingerprint">Cihaz kilidi, uygulamalar ve hizmetlerde oturum açmak için parmak izinizi kullanın</string>
+</resources>

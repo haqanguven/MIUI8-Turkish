@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="En iyi kelimeleri güncelle" android:key="WORDUPDATE" />
+    <Preference android:title="Bulut optimizasyonu" android:key="CLOUDOPTIMIZATION" android:summary="İnternet üzerinden sözlük optimizasyonu" />
+    <com.baidu.input.pref.CustListPref android:entries="@array/freqname" android:title="Döngüyü güncelle" android:key="UPFREQ" android:defaultValue="7" android:entryValues="@array/freqvalue" />
+</PreferenceScreen>

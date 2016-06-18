@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panoya kaydetme hizmeti</string>
+    <string name="clipboard_save_gallery">Galeriye kaydedildi</string>
+    <string name="clipboard_already_exists">Zaten var</string>
+</resources>

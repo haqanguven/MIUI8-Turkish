@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="Genel" android:key="general_setting" android:summary="Klavye düzeni, kelime sıklığı, bulut" />
+    <Preference android:title="Dokunmatik ekran" android:key="virtual" android:summary="Tema, tek el" />
+    <Preference android:title="Donanım klavyesi" android:key="hard_keyboard" android:summary="Anahtar, klavye türü, yazı tipi boyutu" />
+    <Preference android:title="El yazısı" android:key="handwriting" android:summary="Tanıma kapsamı, tanıma hızı, fırça rengi, fırça boyutu" />
+    <Preference android:title="Sözlük yönetimi" android:key="ciku" android:summary="Kullanıcı sözlük yönetimi" />
+    <Preference android:title="Güncelleme" android:key="update" android:summary="İnternetten en iyi kelimeleri güncelleyin" />
+    <Preference android:title="Gelişmiş" android:key="advanced_setting" android:summary="Kişisel ifade, Sembol, Ses" />
+    <com.baidu.input.pref.AccountPref android:title="Oturum aç" android:key="login" android:summary="Oturum aç veya kaydol" />
+    <Preference android:title="Yardım" android:key="help" android:summary="Kullanıcı deneyimi projesi hakkında" />
+    <Preference android:title="Sıfırlama ayarları" android:key="default_setting" android:summary="Tüm ayarları sıfırla" />
+</PreferenceScreen>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Merhaba dünya</string>
+    <string name="app_name">Kayıt sağlayıcıları</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistem reklamı</string>
+    <string name="app_detail">Detaylar</string>
+    <string name="size">(%1$s)</string>
+    <string name="bytes_unit">%1$s B</string>
+    <string name="kilobytes_unit">%1$s KB</string>
+    <string name="megabytes_unit">%1$s MB</string>
+    <string name="install">Yükle</string>
+    <string name="installing">Yükleniyor</string>
+    <string name="launch">Aç</string>
+    <string name="carddownloading">İptal et</string>
+    <string name="pass">Atla</string>
+    <string name="downloading">Uygulama indirme başlatılıyor</string>
+    <string name="retry">İndirme kesintiye uğradı. Tıklayın</string>
+    <string name="installed">Yüklü</string>
+    <string name="introduction">Reklam hizmeti tanıtımı</string>
+    <string name="dismiss">Reklamı görmek istemiyorum</string>
+    <string name="provider_title">Reklam sponsorları</string>
+    <string name="dismiss_reason_title">Neden promosyon görmek istemiyorsun</string>
+    <string name="no_interest">İlgilenmiyorum</string>
+    <string name="ad_too_much">Çok sık görünüyor</string>
+    <string name="bad_content">İçerik kalitesiz</string>
+    <string name="ad_service_introduction">Reklam hizmeti açıklaması</string>
+    <string name="loading">Yükleniyor</string>
+    <string name="feedback_information">Görüşleriniz için teşekkür ederiz. Biz daha iyi öneriler sağlayacağız</string>
+    <string name="ERROR_FILE_ERROR">file error</string>
+    <string name="ERROR_UNHANDLED_HTTP_CODE">unhandled http code</string>
+    <string name="ERROR_HTTP_DATA_ERROR">http data error</string>
+    <string name="ERROR_TOO_MANY_REDIRECTS">too many redirects</string>
+    <string name="ERROR_INSUFFICIENT_SPACE">insufficient space</string>
+    <string name="ERROR_DEVICE_NOT_FOUND">device not found</string>
+    <string name="ERROR_CANNOT_RESUME">cannot resume</string>
+    <string name="ERROR_FILE_ALREADY_EXISTS">file already exists</string>
+    <string name="PAUSED_WAITING_TO_RETRY">interrupted,please retry</string>
+    <string name="PAUSED_WAITING_FOR_NETWORK">network interruption</string>
+    <string name="PAUSED_QUEUED_FOR_WIFI">wifi interruption</string>
+    <string name="PAUSED_UNKNOWN">unknown reason interruption</string>
+</resources>

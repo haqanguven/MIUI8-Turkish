@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="PinYin modu">
+        <CheckBoxPreference android:title="PinYin girişi" android:key="MOHU" android:defaultValue="false" />
+        <PreferenceScreen android:title="PinYin girişi ayarları" android:key="MOHU_SET" android:dependency="MOHU" />
+        <CheckBoxPreference android:title="Doğru puslu ping" android:key="CORRECTED" android:defaultValue="false" />
+        <CheckBoxPreference android:title="İngilizce tahmin modu" android:key="ENASSCO" android:defaultValue="true" />
+        <CheckBoxPreference android:title="Karışık İngilizce/Çince girişi" android:key="MIXENCH_SENTENCE" android:defaultValue="true" />
+        <CheckBoxPreference android:title="Tam cümle girişi" android:key="JUZI" android:defaultValue="true" />
+        <com.baidu.input.pref.CustListPref android:entries="@array/yunshuru" android:title="Bulut tahmin modu" android:key="YUNSHURU" android:defaultValue="1" android:entryValues="@array/listvalue" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Sözlük">
+        <ListPreference android:entries="@array/loadword" android:title="Yazı tipi ayarları" android:key="GBK" android:defaultValue="2" android:entryValues="@array/listvalue" />
+        <ListPreference android:entries="@array/wordassco" android:title="Sonraki kelime tahmini" android:key="wordassco" android:defaultValue="1" android:dialogTitle="Kelime tahmin modu" android:entryValues="@array/listvalue" />
+        <CheckBoxPreference android:title="Otomatik kelime sıklığı" android:key="zicifreq" android:defaultValue="true" />
+        <CheckBoxPreference android:title="Bihua ilk kelime" android:key="BHCUT" android:defaultValue="true" />
+        <CheckBoxPreference android:title="Geleneksel çince" android:key="BIG5" android:defaultValue="false" />
+        <CheckBoxPreference android:title="Karışık PinYin/Wubi girişi" android:key="WBPY" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="İngilizce modu">
+        <CheckBoxPreference android:title="Otomatik boşluk" android:key="addspace" android:defaultValue="false" android:summaryOn="Etkin" android:summaryOff="" />
+        <com.baidu.input.pref.CustListPref android:entries="@array/ensort" android:title="Kelime sıralaması" android:key="ENSORT" android:defaultValue="0" android:dialogTitle="Sort the words" android:entryValues="@array/listvalue" />
+        <CheckBoxPreference android:title="İlk harf büyük" android:key="cap_first_word" android:defaultValue="false" />
+    </PreferenceCategory>
+</PreferenceScreen>

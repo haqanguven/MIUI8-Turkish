@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d son uygulama</item>
+        <item quantity="one">1 son uygulama</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">%d uygulamanın bildirimi gizlensin mi?</item>
+        <item quantity="one">Bu uygulamanın bildirimi gizlensin mi?</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Açık</item>
+        <item quantity="one">Güneşli</item>
+    </plurals>
+</resources>

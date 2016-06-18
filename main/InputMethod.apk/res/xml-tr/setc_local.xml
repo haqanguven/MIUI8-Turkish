@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="Sözlüğü geri yükle" android:key="PHONEDN" />
+    <Preference android:title="Dosyadan al" android:key="impt1" />
+    <Preference android:title="Sözlüğü yedekle" android:key="BDPHONE" />
+</PreferenceScreen>

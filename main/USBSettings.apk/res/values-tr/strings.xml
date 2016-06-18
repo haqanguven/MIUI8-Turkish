@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USB ayarları</string>
+    <string name="usb_name">USB</string>
+    <string name="usbsettings_name">USB ayarları</string>
+    <string name="ap_to_cp">Cp</string>
+    <string name="cp_to_ap">Ap</string>
+    <string name="mtp_mode">Mtp</string>
+    <string name="mtp_adb_mode">Mtp + Adb</string>
+    <string name="ptp_mode">Ptp</string>
+    <string name="ptp_adb_mode">Ptp + Adb</string>
+    <string name="acm_mode">Acm</string>
+    <string name="acm_adb_mode">Acm + Adb</string>
+    <string name="rndis_mode">Rndıs</string>
+    <string name="rndis_adb_mode">Rndıs + Adb</string>
+    <string name="rndis_dm_modem_mode">Rndıs + Dm + Modem</string>
+    <string name="rndis_acm_dm_mode">Rndıs + Acm + Dm</string>
+    <string name="rndis_acm_mode">Rndıs + Acm</string>
+    <string name="rndis_acm_adb_mode">Rndıs + Acm + Adb</string>
+    <string name="rndis_acm_dm_adb_mode">Rndıs + Acm + Dm + Adb</string>
+    <string name="rmnet_dm_modem_mode">Rmnet + Dm + Modem</string>
+    <string name="dm_modem_adb_mode">Dm + Modem + Adb</string>
+    <string name="ok_button">Tamam</string>
+    <string name="reboot_button">Yeniden başlat</string>
+</resources>

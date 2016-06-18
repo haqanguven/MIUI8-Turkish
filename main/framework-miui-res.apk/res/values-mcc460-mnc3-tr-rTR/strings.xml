@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_unlock_sim_via_puk">Uim kart kilidini açmak için Puk kodunu girin</string>
+    <string name="sim_account_name">Uim</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Güvenlik depolama</string>
+    <string name="provider_label">Güvenlik</string>
+    <string name="permgrouplab_security">Aygıtın güvenlik ayarlarını değiştirme hizmetleri</string>
+    <string name="permgroupdesc_security">Uygulama mevcut aygıtın güvenlik ayarlarını okuma ya da değiştirme için izin verir</string>
+    <string name="permlab_readPolicies">Güvenlik politikaları okuma</string>
+    <string name="permdesc_readPolicies">Uygulama mevcut güvenlik politikalarını okumanızı sağlar</string>
+    <string name="permlab_writePolicies">Güvenlik politikaları yazma</string>
+    <string name="permdesc_writePolicies">Uygulama mevcut güvenlik politikaları yazmanıza olanak sağlar</string>
+</resources>

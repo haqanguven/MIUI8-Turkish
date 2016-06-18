@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_clear_all_button">Bildirimleri temizle</string>
+    <string name="status_bar_no_notifications_title">Bildirimler yok</string>
+    <string name="status_bar_ongoing_events_title">Devam eden</string>
+    <string name="status_bar_latest_events_title">Bildirimler</string>
+    <string name="indicator_wifi">Wifi</string>
+    <string name="indicator_bt">Bluetooth</string>
+    <string name="indicator_vibration">Titreşim</string>
+    <string name="indicator_sound">Sessiz</string>
+    <string name="quickpanel_mute">Sustur</string>
+    <string name="quickpanel_speaker">Hoparlör</string>
+    <string name="quickpanel_end">Son</string>
+    <string name="ticker_voicerecord">Vr cesaret testi</string>
+    <string name="ticker_call">Arama cesaret testi</string>
+    <string name="ticker_radio">Radyo cesaret testi</string>
+    <string name="ticker_music">Müzik cesaret testi</string>
+    <string name="quickpanel_retreive">Alma</string>
+    <string name="no_missed_event">Cevapsız olay yok</string>
+    <string name="phone_format">%1$s dan %2$s kaçırılmış arama</string>
+    <string name="mms_format">%1$s dan %2$s yeni mesaj var</string>
+    <string name="schedule_format">%s cevapsız arama</string>
+    <string name="multi_format">%1$d cevapsız arama, %2$d yeni mesaj, %3$d cevapsız olay</string>
+    <string name="quickpanel_save">Kaydet</string>
+    <string name="quickpanel_rec">Kayıt</string>
+    <string name="quickpanel_pause">Duraklat</string>
+    <string name="quickpanel_paused">Duraklat</string>
+    <string name="quickpanel_standby">Beklemede</string>
+    <string name="indicator_gps">Gps</string>
+    <string name="indicator_rotation_lock">Döndürme</string>
+    <string name="indicator_orientation">"Otomatik
+döndürme"</string>
+    <string name="quick_settings_error">Hata</string>
+    <string name="status_bar_ongoing_text_call">Arama</string>
+    <string name="phone_m_format">%d cevapsız aramalarınız var</string>
+    <string name="mms_m_format">%d yeni mesajınız var</string>
+    <string name="tw_seekbarsplit_seekbar_control">Arama kontrolü</string>
+    <string name="dragndroplist_description">Sürükleyip bırakmak için dokunup tutun</string>
+    <string name="dragndroplist_description_exp_by_touch">Sürükleyip bırakmak için çift dokunup tutun</string>
+    <string name="dragndroplist_drag_start">%d pozisyonunda öğe sürükleme başladı</string>
+    <string name="dragndroplist_drag_release">Öğe %d pozisyonuna bırakıldı</string>
+    <string name="dragndroplist_item_cannot_be_dragged">%d pozisyonundaki öğe sürüklenemez</string>
+</resources>
