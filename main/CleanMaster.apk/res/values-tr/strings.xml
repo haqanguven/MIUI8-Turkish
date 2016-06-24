@@ -259,7 +259,7 @@
     <string name="privacy_cache_desc">Hesap, şifre, geçmiş, ayarlar ve daha fazlası</string>
     <string name="privacy_cache_scaning">Kontrol ediliyor</string>
     <string name="privacy_cache_empty">Özel veri yok</string>
-    <string name="activity_title_privacy_cache">Gizlilik Önbelleği</string>
+    <string name="activity_title_privacy_cache">Gizlilik Ön belleği</string>
     <string name="privacy_clipboard_type">Pano</string>
     <string name="privacy_clipboard_desc">Pano içerikleri</string>
     <string name="privacy_search_type">Google arama</string>
@@ -312,6 +312,8 @@
     <string name="close">Kapat</string>
     <string name="download">İndir</string>
     <string name="installed">Yüklendi</string>
+    <string name="install_sucess">%s yüklendi</string>
+    <string name="open_app">Aç</string>
     <string name="downloading">İndiriliyor</string>
     <string name="installing">Yükleniyor</string>
     <string name="start_install">Yüklemeye başla</string>
