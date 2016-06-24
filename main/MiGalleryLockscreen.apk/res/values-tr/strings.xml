@@ -5,6 +5,7 @@
     <string name="auto_interval">Otomatik</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_international">İptal et</string>
+    <string name="cancel_lockscreen">İptal et</string>
     <string name="change_time">Değiştirme aralığı</string>
     <string name="day">Günde bir kez</string>
     <string name="declaration">Her gün ücretsiz olarak kilit ekranına yeni duvar kağıtları alın</string>
@@ -17,6 +18,7 @@
     <string name="lockscreen_magazine_title">Günlük kilit ekranı</string>
     <string name="minutes_15">15 dakika</string>
     <string name="no_long_show">Tekrar gösterme</string>
+    <string name="ok_enable_network_prov">Kabul et</string>
     <string name="ok_international">Tamam</string>
     <string name="ok_lockscreen">Tamam</string>
     <string name="ok_network">Kabul et ve aç</string>
@@ -36,8 +38,8 @@
     <string name="sst_subscribe_title">Abone ol</string>
     <string name="sst_wifi_only_desc">Mobil veri tasarrufu için devre dışı bırakın</string>
     <string name="sst_wifi_only_title">Mobil veri üzerinden indirme</string>
-    <string name="summary">"Başlatmanız için bizim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>kullanıcı sözleşmesi&lt;/a> ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>gizlilik politikası&lt;/a> şartlarımızı kabul etmeniz gerekmektedir</string>
-    <string name="summary_international">"Bu ürünü kullanarak &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>kullanıcı sözleşmesi&lt;/a> ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>gizlilik politikası&lt;/a> kabul etmiş olursunuz. Bu uygulamanın normal bir şekilde çalışması için internete bağlanması gerekiyor​"</string>
+    <string name="summary">"Bu özelliği kullanmak için kabul edin: href='http://www.miui.com/res/doc/privacy/en.html'>Gizlilik politikası&lt;/a>. Bu özelliğin normal çalışması için internete bağlanması gerekir</string>
+    <string name="summary_international">"Bu özelliği kullanmak için kabul edin: a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Gizlilik politikası&lt;/a>. Bu özelliğin normal çalışması için internete bağlanması gerekir"</string>
     <string name="theme_apply_failured">Kilit ekranına uygulanamadı</string>
     <string name="theme_apply_success">Kilit ekranına uygulandı</string>
     <string name="theme_applying">Uygulanıyor</string>
