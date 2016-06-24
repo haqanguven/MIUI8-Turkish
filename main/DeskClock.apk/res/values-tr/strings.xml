@@ -2,7 +2,7 @@
 <resources>
     <string name="stat_repeat_none">Tek</string>
     <string name="stat_repeat_everyday">Her gün</string>
-    <string name="stat_repeat_legal_workday">Yasal çalışma</string>
+    <string name="stat_repeat_legal_workday">Yasal iş</string>
     <string name="stat_repeat_legal_off_day">Yasal tatil</string>
     <string name="stat_repeat_weekdays">Pazartesiden cumaya</string>
     <string name="stat_repeat_weekends">Hafta sonu</string>
@@ -40,6 +40,7 @@
     <string name="stopwatch_lap_empty_text">Kayıtlı tur yok</string>
     <string name="timer_got_it">Tamam</string>
     <string name="timer_start_alarm">Zamanlayıcıyı başlat</string>
+    <string name="timer_clock_alert_text">Zamanlayıcı ayarla</string>
     <string name="dialog_confirm_abort">Değişiklikleri iptal etmek istiyor musunuz?</string>
     <string name="confirm_abort">Yoksay</string>
     <string name="remind_ringtone">Zil sesi</string>
