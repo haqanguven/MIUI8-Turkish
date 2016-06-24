@@ -194,12 +194,12 @@
     <string name="auto_disable_screenbuttons_prompts_message">Engelli modundan çıkmak ve bu düğme eylemini gerçekleştirmek için herhangi bir tuşa çift basın</string>
     <string name="auto_disable_screenbuttons_prompts_ok">Tamam</string>
     <string name="auto_disable_screenbuttons_prompts_not_show_again">Tekrar gösterme</string>
-	<string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
-    <string name="security_permission_denied_text">Access denied</string>
-    <string name="security_permission_failed_text">Internal error, retry later</string>
-    <string name="security_permission_xiaomi_account_missed_text">Enter your Mi Account ID</string>
-    <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
-    <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>
-    <string name="xspace_resolver_activity_title">Select app</string>
-    <string name="user_switching_dialog_text">Switching…</string>
+	<string name="start_security_permission_verify_text">Mi hesabınız ile izinleri doğrulayın</string>
+    <string name="security_permission_denied_text">Erişim reddedildi</string>
+    <string name="security_permission_failed_text">Dahili hata. Daha sonra tekrar deneyin</string>
+    <string name="security_permission_xiaomi_account_missed_text">Mi hesap kimliğinizi girin</string>
+    <string name="security_permission_validate_warning">Daha iyi Miui yazılımını yapmaya yardımcı olduğunuz için teşekkür ederiz</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wifi ve mobil veri açık</string>
+    <string name="xspace_resolver_activity_title">Uygulama seç</string>
+    <string name="user_switching_dialog_text">Değiştiriliyor</string>
 </resources>
