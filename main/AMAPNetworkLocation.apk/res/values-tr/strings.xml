@@ -5,4 +5,18 @@
     <string name="location_warning_message">Anonim konum verilerini toplamak için otomatik navigasyon konum hizmetine izin verin. Bazı veriler cihazınızda depolanabilir ve toplama hiçbir uygulama çalışmazken bile oluşabilir. Yürürlükteki veri kullanım ücreti bu süreçte geçerli olabilir</string>
     <string name="agree">Kabul ediyorum</string>
     <string name="disagree">Kabul etmiyorum</string>
+    <string name="location_warning_do_not_show_again">Tekrar gösterme</string>
+    <string name="persmission_notification_title">Ağ konumu izinleri gerektirir</string>
+    <string name="persmission_notification_text">İzin için dokunun</string>
+    <string name="persmission_message">Düzgün çalışması için bu hizmet ek izinler gerektirir. Sorulduğunda izinlere izin verin</string>
+    <string name="persmission_message2">Düzgün çalışması için bu hizmetin depolamaya erişmesi gerekir. Sorulduğunda izin verin</string>
+    <string name="persmission_message3">Düzgün çalışması için bu hizmetin konumunuza erişmesi gerekir. Sorulduğunda izin verin</string>
+    <string name="persmission_message4">Düzgün çalışması için bu hizmetin telefonunuza erişmesi gerekir. Sorulduğunda izin verin</string>
+    <string name="persmission_message5">"Düzgün çalışması için bu hizmet ek izinler gerektirir. Ayarlardan izinleri yönetebilirsiniz</string>
+    <string name="persmission_message6">Düzgün çalışması için bu hizmetin konumunuza erişmesi gerekir. Ayarlardan izinleri yönetebilirsiniz</string>
+    <string name="persmission_message7">Düzgün çalışması için bu hizmetin telefonunuza erişmesi gerekir. Ayarlardan izinleri yönetebilirsiniz</string>
+    <string name="persmission_message8">Düzgün çalışması için bu hizmetin depolamaya erişmesi gerekir. Ayarlardan izinleri yönetebilirsiniz</string>
+    <string name="persmission_ok">Tamam</string>
+    <string name="persmission_close">Kapat</string>
+    <string name="persmission_settings">Ayarlar</string>
 </resources>
