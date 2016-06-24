@@ -60,4 +60,8 @@
     <string name="txt_divider">" | "</string>
     <string name="group_favor">Hazır ayarlar</string>
     <string name="group_other">Diğerleri</string>
+	<string name="using_recorder_dialog_title">Erişim izni</string>
+    <string name="using_recorder_dialog_message">Radyounun normal çalışması için cihazınızın kayıt hizmetlerini kullanması gerekir</string>
+    <string name="using_recorder_confirm">Kabul et</string>
+    <string name="using_recorder_cancel">Reddet</string>
 </resources>
