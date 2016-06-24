@@ -12,18 +12,6 @@
         <item>3</item>
         <item>4</item>
     </integer-array>
-    <string-array name="reminder_minutes_labels">
-        <item>Hiçbiri</item>
-        <item>0 dakika</item>
-        <item>5 dakika</item>
-        <item>10 dakika</item>
-        <item>15 dakika</item>
-        <item>30 dakika</item>
-        <item>1 saat</item>
-        <item>1 gün</item>
-        <item>2 gün</item>
-        <item>1 hafta</item>
-    </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
         <item>0</item>
@@ -36,18 +24,6 @@
         <item>2880</item>
         <item>10080</item>
     </integer-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Hiçbiri</item>
-        <item>0 dakika</item>
-        <item>5 dakika</item>
-        <item>10 dakika</item>
-        <item>15 dakika</item>
-        <item>30 dakika</item>
-        <item>1 saat</item>
-        <item>1 gün</item>
-        <item>2 gün</item>
-        <item>1 hafta</item>
-    </string-array>
     <string-array name="preferences_default_reminder_values">
         <item>-1</item>
         <item>0</item>
@@ -282,20 +258,82 @@
         <item>1</item>
         <item>2</item>
     </integer-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Bu ve ileriki etkinlikler</item>
-        <item>Tüm etkinlikler</item>
-    </string-array>
     <string-array name="change_response_labels">
-        <item>Sadece bu</item>
+        <item>Sadece bu etkinlik</item>
         <item>Bu serideki tüm etkinlikler</item>
     </string-array>
-    <string-array name="buttons_list">
-        <item>Gün</item>
-        <item>Hafta</item>
-        <item>Ay</item>
-        <item>Ajanda</item>
+    <array name="account_birthday">
+        <item>#ffe99080</item>
+        <item>#b3d5a198</item>
+        <item>#fffcefef</item>
+        <item>#ffce7e6f</item>
+    </array>
+    <array name="account_xiaomi">
+        <item>#ff31aeaa</item>
+        <item>#b355c3bf</item>
+        <item>#ffe9f5f5</item>
+        <item>#ff349a97</item>
+    </array>
+    <array name="account_preset1">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+    </array>
+    <array name="account_preset2">
+        <item>#fff0a16f</item>
+        <item>#b3d88c5b</item>
+        <item>#fffdf3ec</item>
+        <item>#ffe4884d</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+    </array>
+    <array name="account_preset4">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
+    </array>
+    <array name="action_bar_colors">
+        <item>#ff7d97e1</item>
+        <item>#ff27bbd0</item>
+        <item>#ff8cc061</item>
+        <item>#ff3fbc7d</item>
+        <item>#ff11b599</item>
+        <item>#fff38f3a</item>
+        <item>#ffeb6e4a</item>
+        <item>#ffdd5a62</item>
+        <item>#ffe8774d</item>
+        <item>#ffe29255</item>
+        <item>#ff579ee0</item>
+        <item>#ff9b88d0</item>
+    </array>
+    <array name="month_today_colors">
+        <item>#ff809be8</item>
+        <item>#ff2ec2d7</item>
+        <item>#ff99ce6d</item>
+        <item>#ff46c987</item>
+        <item>#ff15bb9e</item>
+        <item>#fff49d52</item>
+        <item>#fff4734d</item>
+        <item>#ffea646b</item>
+        <item>#ffed7d54</item>
+        <item>#ffe8995d</item>
+        <item>#ff5ea4e6</item>
+        <item>#ffab99de</item>
+    </array>
+    <string-array name="fortune_gender">
+        <item>Erkek</item>
+        <item>Kadın</item>
     </string-array>
+    <integer-array name="fortune_gender_values">
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
     <string-array name="quick_response_defaults">
         <item>Biraz geciktim</item>
         <item>Kısa sürede orada olacağım</item>
@@ -359,11 +397,11 @@
         <item>10080</item>
     </integer-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>3 saat</item>
-        <item>4 saat</item>
-        <item>5 saat</item>
-        <item>6 saat</item>
-        <item>1 gün</item>
+        <item>3 saat önce</item>
+        <item>4 saat önce</item>
+        <item>5 saat önce</item>
+        <item>6 saat önce</item>
+        <item>1 gün önce</item>
     </string-array>
     <integer-array name="travel_reminder_minutes_values">
         <item>180</item>
@@ -441,7 +479,7 @@
         <item>Ara</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>ilk</item>
+        <item>birinci</item>
         <item>ikinci</item>
         <item>üçüncü</item>
         <item>dördüncü</item>
@@ -449,7 +487,7 @@
     </string-array>
     <string-array name="repeat_choose_week_right">
         <item>Pzt - Cum</item>
-        <item>Haftasonu</item>
+        <item>Hafta sonu</item>
         <item>Tüm hafta</item>
     </string-array>
     <string-array name="repeat_choose_end">
@@ -457,76 +495,4 @@
         <item>Zaman</item>
         <item>Bitiş</item>
     </string-array>
-    <array name="account_birthday">
-        <item>#ffe99080</item>
-        <item>#b3d5a198</item>
-        <item>#fffcefef</item>
-        <item>#ffce7e6f</item>
-    </array>
-    <array name="account_xiaomi">
-        <item>#ff31aeaa</item>
-        <item>#b355c3bf</item>
-        <item>#ffe9f5f5</item>
-        <item>#ff349a97</item>
-    </array>
-    <array name="account_preset1">
-        <item>#ffb69dd0</item>
-        <item>#b3bfa5db</item>
-        <item>#fff6f1fa</item>
-        <item>#ffa894be</item>
-    </array>
-    <array name="account_preset2">
-        <item>#fff0a16f</item>
-        <item>#b3d88c5b</item>
-        <item>#fffdf3ec</item>
-        <item>#ffe4884d</item>
-    </array>
-    <array name="account_preset3">
-        <item>#ff64bce1</item>
-        <item>#b33aadd2</item>
-        <item>#ffe2f5fb</item>
-        <item>#ff5bb5db</item>
-    </array>
-    <array name="account_preset4">
-        <item>#ff88c984</item>
-        <item>#b37dc07a</item>
-        <item>#fff1faf1</item>
-        <item>#ff91c58e</item>
-    </array>
-    <array name="action_bar_colors">
-        <item>#ff7d97e1</item>
-        <item>#ff27bbd0</item>
-        <item>#ff8cc061</item>
-        <item>#ff3fbc7d</item>
-        <item>#ff11b599</item>
-        <item>#fff38f3a</item>
-        <item>#ffeb6e4a</item>
-        <item>#ffdd5a62</item>
-        <item>#ffe8774d</item>
-        <item>#ffe29255</item>
-        <item>#ff579ee0</item>
-        <item>#ff9b88d0</item>
-    </array>
-    <array name="month_today_colors">
-        <item>#ff809be8</item>
-        <item>#ff2ec2d7</item>
-        <item>#ff99ce6d</item>
-        <item>#ff46c987</item>
-        <item>#ff15bb9e</item>
-        <item>#fff49d52</item>
-        <item>#fff4734d</item>
-        <item>#ffea646b</item>
-        <item>#ffed7d54</item>
-        <item>#ffe8995d</item>
-        <item>#ff5ea4e6</item>
-        <item>#ffab99de</item>
-    </array>
-    <string-array name="fortune_gender">
-        <item>Erkek</item>
-        <item>Kadın</item>
-    </string-array>
-    <integer-array name="fortune_gender_values">
-        <item>1</item>
-        <item>0</item>
-    </integer-array>
 </resources>
