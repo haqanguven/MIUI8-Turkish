@@ -243,6 +243,7 @@ gönderdiğimiz mesajdaki bağlantıyı takip edin"</string>
     <string name="locating_current_location">Konumlandırılıyor</string>
     <string name="location_service_not_working">Konum hizmeti çalışmıyor</string>
     <string name="select_location_title">Bulunduğunuz konumu seçin</string>
+    <string name="mi_pay_identity">Kimlik</string>
     <string name="account_user_using_weibo_avatar">Sina Weibo profil fotoğrafını kullan</string>
     <string name="account_user_using_qq_avatar">QQ profil fotoğrafını kullan</string>
     <string name="account_user_using_facebook_avatar">Facebook profil fotoğrafını kullan</string>
@@ -371,7 +372,7 @@ Bu soruların yanıtlarını hatırlayacağınızdan emin olun"</string>
     <string name="find_device_error_password_not_confirmed">Cihazı bul özelliği kapatılamıyor. Mi Hesap şifrenizi yeniden girin ve ardından tekrar deneyin</string>
     <string name="find_device_operation_failed_error_unknown">Bir hata meydana geldi. Daha sonra tekrar deneyin</string>
     <string name="find_device_remote_exception">RPC hatası</string>
-	<string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
-    <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your Default space Mi Account."</string>
-    <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space.To avoid this, don't turn on sync with Mi Cloud"</string>
+	<string name="multi_user_not_show_sync_activity_title">Mi bulut ile senkronizeyi açmayın</string>
+    <string name="multi_user_not_show_sync_activity_message_1">Varsayılan alanı Mi hesabı kullanıyor gibi görünüyor</string>
+    <string name="multi_user_not_show_sync_activity_message_2">Böyle bir durumda tüm veri ikinci alana senkronize edilecek. Bunu önlemek için Mi bulut ile senkronizeyi açmayın</string>
 </resources>
