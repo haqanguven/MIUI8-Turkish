@@ -40,7 +40,7 @@
     <string name="menu_back_desktop">Geri dön</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_reset_scene">Sahneyi varsayılana sıfırla</string>
-    <string name="menu_exit_scene">MiSpaceden çık</string>
+    <string name="menu_exit_scene">Mi alandan çık</string>
     <string name="permlab_install_shortcut">Kısayol yükle</string>
     <string name="permdesc_install_shortcut">Kullanıcı eylemi olmaksızın uygulamaya kısayol eklenmesi için izin ver</string>
     <string name="permlab_uninstall_shortcut">Kısayolları kaldır</string>
@@ -76,12 +76,12 @@
     <string name="cant_remove_retained_app">Bu uygulama kaldırılamıyor</string>
     <string name="uninstall_dialog_message">Tüm verileri silinecektir</string>
     <string name="uninstall_dialog_title_format">%s kaldırılsın mı?</string>
-    <string name="uninstall_xspace_dialog_title_format">Uninstall cloned \"%s\"</string>
-    <string name="uninstall_xspace_dialog_message">Uninstalling cloned app will remove all app data.</string>
-    <string name="uninstall_with_xspace_dialog_message">Corresponding cloned apps will be removed together with app data.</string>
-    <string name="confirm_uninstall_dialog_title">Corresponding cloned apps will be removed.</string>
-    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Cloned app will be uninstalled together with this one.</string>
-    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Cloned apps will be uninstalled together with these ones.</string>
+    <string name="uninstall_xspace_dialog_title_format">%s klonlanmışı kaldır</string>
+    <string name="uninstall_xspace_dialog_message">Klonlanmış uygulamayı kaldırma tüm uygulama verilerini kaldırır</string>
+    <string name="uninstall_with_xspace_dialog_message">Karşılık gelen klonlanmış uygulamalar uygulama verileri ile birlikte silinecektir</string>
+    <string name="confirm_uninstall_dialog_title">Klonlanmış uygulamaların karşılıkları silinecektir</string>
+    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Klonlanan uygulama ile birlikte kaldırılacaktır</string>
+    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Klonlanan uygulamalarla birlikte kaldırılacaktır</string>
     <string name="uninstall_dialog_title_multi_format" formatted="false">%s ve %d diğer uygulamalar kaldırılsın mı?</string>
     <string name="uninstall">Kaldır</string>
     <string name="uninstall_result_multi_succeeded">%1$d uygulama kaldırıldı</string>
@@ -115,8 +115,8 @@
     <string name="wallpaper_settings">Duvar kağıdı</string>
     <string name="choose_wallpaper">Duvar kağıdı seç</string>
     <string name="current_preview">Önizleme</string>
-    <string name="normal_wallpaper">Wallpaper</string>
-    <string name="lock_screen_wallpaper">Lock screen wallpaper</string>
+    <string name="normal_wallpaper">Duvar kağıdı</string>
+    <string name="lock_screen_wallpaper">Kilit ekranı duvar kağıdı</string>
     <string name="wallpaper">Duvar kağıdı</string>
     <string name="mi_wallpaper">Mağaza</string>
     <string name="show_all">Tümünü göster</string>
@@ -179,7 +179,7 @@
     <string name="gadget_calculator_label">Hesaplama</string>
     <string name="gadget_load_error">Araç yükleniyor</string>
     <string name="invalid_contact_shortcut">Geçersiz kişi kısayolu</string>
-    <string name="guide_tips_editing_mode">Araç almak için dokun &amp; tutun</string>
+    <string name="guide_tips_editing_mode">Araç almak için dokun ve tutun</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -213,8 +213,8 @@
     <string name="free_style_edit_bar_empty">Boş</string>
     <string name="free_style_edit_bar_select_app">Uygulama seç</string>
     <string name="free_style_londing_text">Yükleniyor</string>
-    <string name="free_style_enter_tip">MiSpace geçmek için iki parmağınızla aşağıya doğru kaydırın</string>
-    <string name="free_style_exit_tip">MiSpaceden çıkmak için iki parmağınızla yukarıya doğru kaydırın</string>
+    <string name="free_style_enter_tip">Mi alana geçmek için iki parmağınızla aşağıya doğru kaydırın</string>
+    <string name="free_style_exit_tip">Mi alandan çıkmak için iki parmağınızla yukarıya doğru kaydırın</string>
     <string name="toggle_select_title">Geçişi seçin</string>
     <string name="toggle_title">Geçiş</string>
     <string name="settings_shortcut">Ayarlar</string>
@@ -229,7 +229,7 @@
     <string name="guide_install_app_msg">Uygulama yüklü değil. Şimdi markette aransın mı?</string>
     <string name="menu_customize">Ayarları değiştir</string>
     <string name="menu_picktheme">Temayı seç</string>
-    <string name="scroll_tip_format_when_announce_accessibility">Sayfa %1$d, %2$d uygulama</string>
+    <string name="scroll_tip_format_when_announce_accessibility">%1$d sayfa, %2$d uygulama</string>
     <string name="editing_mode_enter_tip_text">Ana ekranı düzenlemek için sıkıştırın</string>
     <string name="delete">Sil</string>
     <string name="delete_wallpaper_message">%1$d duvar kağıdı silinsin mi?</string>
@@ -272,9 +272,9 @@
     <string name="share">Paylaş</string>
     <string name="settings">Ayarlar</string>
     <string name="apply">Ayarla</string>
-	<string name="change_wallpaper">Change</string>
-    <string name="lock_screen">Lock screen</string>
-    <string name="home_screen">Home screen</string>
-    <string name="wallpaper_scroll_type_tips">Wallpaper scroll</string>
-    <string name="no_detail_page">No details page</string>
+	<string name="change_wallpaper">Değiştir</string>
+    <string name="lock_screen">Kilit ekranı</string>
+    <string name="home_screen">Ana ekran</string>
+    <string name="wallpaper_scroll_type_tips">Duvar kağıdını kaydır</string>
+    <string name="no_detail_page">Sayfa detayları yok</string>
 </resources>
