@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <PreferenceScreen android:title="Çince sözlük" android:key="CIKULIST" />
-    <Preference android:title="İngilizce sözlük" android:key="CIKULISTPREF20" />
-    <Preference android:title="Kullanıcı sözlüğünü temizle" android:key="CIKULISTCLEAN" />
-</PreferenceScreen>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <CheckBoxPreference android:title="Kişisel ifadeyi etkinleştir" android:key="PHRASE" android:defaultValue="true" />
-    <Preference android:title="Kişisel ifadeyi düzenle" android:key="ci_edit" android:dependency="PHRASE" />
-    <Preference android:title="Kişisel ifadeyi aktar" android:key="expt5" android:dependency="PHRASE" />
-    <Preference android:title="Kişisel ifadeyi al" android:key="impt5" android:dependency="PHRASE" />
-    <com.baidu.input.pref.CustListPref android:entries="@array/CPIDXNAME" android:title="Konum ayarları" android:key="CPIDX" android:dependency="PHRASE" android:defaultValue="3" android:dialogTitle="Kişisel ifade konumu" android:entryValues="@array/CPIDXVALUE" />
-</PreferenceScreen>

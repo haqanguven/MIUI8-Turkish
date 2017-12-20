@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <Preference android:title="Simge dosyasını çıkart" android:key="expt3" />
-    <Preference android:title="Simge dosyasını al" android:key="impt3" />
-    <Preference android:title="Simge dosyasını kullan" android:key="reset3" />
-</PreferenceScreen>

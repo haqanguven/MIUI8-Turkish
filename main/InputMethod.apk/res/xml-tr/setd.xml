@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <CheckBoxPreference android:title="Donanım klavyesini etkinleştir" android:key="HASHARD" android:defaultValue="true" android:summaryOn="Dokunmatik ekran + Donanım klavyesi" android:summaryOff="Sadece dokunmatik ekran" />
-    <com.baidu.input.pref.FileListPref android:title="klavye türü" android:key="BDT4" android:dependency="HASHARD" android:defaultValue="@string/label_def" />
-    <com.baidu.input.pref.SeekBarPref android:title="Yazı tipi boyutu" android:key="CANDSIZE" android:dependency="HASHARD" android:defaultValue="2" />
-    <CheckBoxPreference android:title="Karakter ekran girişi" android:key="HARDINPUT" android:dependency="HASHARD" android:defaultValue="false" android:summaryOn="Klavyenin üst kısmında" android:summaryOff="Ekranın altını çiz" />
-</PreferenceScreen>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.baidu.input.pref.SynNetWorkCiKuPref android:title="Kullanıcı sözlüğünü senkronize et" android:key="CIKUNETWORKSYN" />
-    <com.baidu.input.pref.NetCikuSetPref android:title="Kullanıcı sözlüğü ayarlarını senkronize et" android:key="CIKUPCIMPORT" />
-    <com.baidu.input.pref.CleanNetWorkCiKuPref android:title="Kullanıcı sözlüğünü temizle" android:key="CIKUNETWORKCLEAN" />
-</PreferenceScreen>
