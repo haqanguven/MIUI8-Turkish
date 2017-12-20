@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Wifi test mühendisliği modu</string>
+    <string name="app_name">Wifi test</string>
+    <string name="app_name_mac">Wifi mac adres</string>
+    <string name="helloMac">Mac adres</string>
+    <string name="WlanStatus">Durum</string>
+    <string name="Channel">Kanal</string>
+    <string name="TxRate">Tx hızı</string>
+    <string name="Power">Kuvvet</string>
+    <string name="Preamble">Başlangıç</string>
+    <string name="Burst">Seri çekim aralığı</string>
+    <string name="Antenna">Anten</string>
+    <string name="Payload">Yük uzunluğu</string>
+    <string name="Start">Başlat</string>
+    <string name="Stop">Durdur</string>
+    <string name="Clear">Temizle</string>
+    <string name="Error">Hata</string>
+    <string name="Received">Alınan</string>
+    <string name="PER">Per (%)</string>
+    <string name="Void" />
+    <string name="Band">Bant</string>
+    <string name="Bandwidth">Bant genişliği</string>
+    <string name="Powersave">Güç modu ayarını kaydetme</string>
+    <string name="SaveOn">Ps modunu etkinleştirin</string>
+    <string name="SaveOff">Ps modunu devre dışı bırakın</string>
+    <string name="Antennaset">Mımd için anten ayarı</string>
+    <string name="Ant_1">ANT_1</string>
+    <string name="Ant_2">ANT_2</string>
+    <string name="Ant_All">ANT_ALL</string>
+</resources>

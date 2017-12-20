@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servis modu</string>
+    <string name="input">Giriş</string>
+    <string name="quit">Çık</string>
+</resources>

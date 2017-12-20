@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.baidu.input.pref.SeekBarPref android:title="Tanıma hızı" android:key="HWspeed" android:defaultValue="2" />
+    <com.baidu.input.pref.CustListPref android:entries="@array/CLRNAME" android:title="Fırça rengi" android:key="HWcolorIdx" android:defaultValue="0" android:entryValues="@array/CLRINDEX" />
+    <com.baidu.input.pref.SeekBarPref android:title="Fırça boyutu" android:key="HWbrush" android:defaultValue="2" />
+    <CheckBoxPreference android:title="Fırça" android:key="TRACEOPT1" android:defaultValue="true" />
+    <CheckBoxPreference android:title="Fırça" android:key="TRACEOPT2" android:defaultValue="false" />
+    <CheckBoxPreference android:title="Özgü karakterler atayın" android:key="HASDASH" android:defaultValue="false" />
+    <com.baidu.input.pref.HWRangePref android:persistent="false" android:title="Tanıma kapsamı" android:key="RNG2" android:dependency="HASDASH" />
+    <Preference android:title="El yazısı klavye ayarları" android:key="HKChooser" />
+    <CheckBoxPreference android:title="İmleç kontrolü" android:key="ARROWCTRL" android:summary="Tam ekran el yazısını uygula" android:defaultValue="false" />
+    <com.baidu.input.pref.CustListPref android:entries="@array/wordassco" android:title="El yazısı tahmini" android:key="HWLIAN" android:defaultValue="2" android:dialogTitle="Tahmin modunu seçin" android:entryValues="@array/listvalue" />
+</PreferenceScreen>

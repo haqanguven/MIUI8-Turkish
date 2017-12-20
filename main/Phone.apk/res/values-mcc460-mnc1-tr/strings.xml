@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exception_error">Ağ veya Usim kartı hatası</string>
+    <string name="not_allowed">Usim kartınız bu ağa bağlanmaya izin vermez</string>
+    <string name="simContacts_emptyLoading">Usim karttan okunuyor</string>
+    <string name="simContacts_empty">Usim kartınızda hiçbir kişi yok</string>
+    <string name="simContacts_airplaneMode">Usim kartına kişileri aktarmak için uçak modunu kapatın</string>
+    <string name="enable_pin">Usim Pinini etkinleştirme veya devre dışı bırakma</string>
+    <string name="change_pin">Usim Pin değişimi</string>
+    <string name="enter_pin_text">Usim Pin:</string>
+    <string name="disable_sim_pin">Usim Pin devre dışı</string>
+    <string name="enable_sim_pin">Usim Pin etkin</string>
+    <string name="enable_pin_ok">Usim Pin etkinleştirildi</string>
+    <string name="disable_pin_ok">Usim Pin devre dışı bırakıldı</string>
+    <string name="pin_changed">Usim Pin başarıyla değiştirildi</string>
+    <string name="puk2_requested">Şifre yanlış. Usim kilitlendi. Puk2 isteniyor</string>
+    <string name="importingSimContacts">Usim kişileri aktarma</string>
+    <string name="change_pin_miui">Usim Pin değiştir</string>
+    <string name="command_error_illegal_sim_or_me_miui">Yanlış Usim veya şebeke seçimi hatası</string>
+    <string name="command_error_sim_absent_miui">Icc kart yoktur</string>
+    <string name="delete_sim_contact_confirm_title_miui">Usim kişileri sil</string>
+    <string name="disable_sim_pin_miui">Usim Pin devre dışı</string>
+    <string name="enable_sim_pin_miui">Usim Pin etkin</string>
+    <string name="importing_sim_contacts_miui">Usim kişileri aktarma</string>
+    <string name="pin_changed_miui">Usim Pin başarıyla değiştirildi</string>
+    <string name="pin_lock_warning_miui">"
+Tekrar başarısız olursa telefon kilitlenecek"</string>
+    <string name="pin_progress_set_icc_lock_miui">Icc kilit ayarlanıyor</string>
+    <string name="pin_progress_unlock_icc_miui">Usim kartı kilidini açma</string>
+    <string name="preferred_network_type_3g_only_warning_miui">"Sadece tercih edilen ağ türü olarak 3G seçilir. Böylece Usim kartı 3G işlevi varsa sinyal yok olacak. 
+Devam etmek için Tamam a dokunun"</string>
+    <string name="puk_lock_warning_miui">"
+Tekrar başarısız olursa Usim kartı hiç kullanılmayacak"</string>
+    <string name="sim_lock_title_miui">Usim kilit ayarları</string>
+    <string name="sim_pin_change_miui"> Usim Pin değiştir</string>
+    <string name="sim_pin_toggle_miui">Usim kart kilidi</string>
+    <string name="sim_contacts_title_miui">Usim kartı kişileri aç</string>
+    <string name="confirm_delete_sim_entry_miui">Usim kartındaki seçili olan %d kişileri silmek istiyor musunuz?</string>
+    <string name="deleting_sim_entry_miui">Usim karta siliniyor</string>
+    <string name="corporate_unlock_failed">Usim kurumsal isteği kilidi başarısız</string>
+    <string name="sim_unlock_failed">Usim Usim isteği kilidi başarısız</string>
+    <string name="nw_unlock_success">Usim ağ kilidi başarılı</string>
+    <string name="nw_subset_unlock_success">Usim ağ alt küme kilidi başarılı</string>
+    <string name="sp_unlock_success">Usim servis sağlayıcı kilidi başarılı</string>
+    <string name="corporate_unlock_success">Usim kurumsal kilidi başarılı</string>
+    <string name="sim_unlock_success">Usim Usim kilidini başarılı</string>
+    <string name="sim_missing_continueView_text">Usim kart olmadan devam et</string>
+    <string name="sim_missing_msg_text">Usim kartı bulunamadı. Telefona bir Usim kartını takınız</string>
+</resources>

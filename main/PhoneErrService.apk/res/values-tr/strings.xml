@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Hata</string>
+    <string name="app_name">RilNotifier</string>
+    <string name="ok">Tamam</string>
+    <string name="sms_fdn_title">Hata</string>
+    <string name="sms_fdn_body">Sayı FDN kısıtlı</string>
+    <string name="sms_fdn_restricted">Sayı FDN kısıtlı</string>
+    <string name="sim_not_inserted">Sim kartı takın</string>
+    <string name="sdcard_copy_err">SD kart kopyalama hatası</string>
+    <string name="data_copy_err">Veri kopyalama hatası</string>
+    <string name="sim_crash_title">Sim kart kaza</string>
+    <string name="sim_crash_text">Sim kartınıza veya müşteriye dikkat edin</string>
+    <string name="sim_crash_text_lgt">Sim kartınıza veya müşteriye dikkat edin</string>
+    <string name="sim_crash_text_ktt">Desteklenmeyen kart. Sim kartınızı kontrol edin</string>
+    <string name="unknown_err">Bilinmeyen hata</string>
+    <string name="sim_removed_text">Sim kart çıkarıldı. Telefonu yeniden başlat</string>
+    <string name="sim_removed_title">Sim kart çıkarıldı</string>
+    <string name="sim_permernent_title">Sim kart hatası</string>
+    <string name="sim_permernent_blocked">Puk engellendi</string>
+    <string name="perso_blocked_title">Ağ kilit açma hatası</string>
+    <string name="perso_blocked_text">Ağ kilit açma kodu engellendi</string>
+    <string name="dialog_ok">Tamam</string>
+    <string name="sim_refresh_text">Usım bilgisi değişti. Telefonu yeniden başlat</string>
+    <string name="sim_refresh_title">Usım bilgisi değişti</string>
+</resources>

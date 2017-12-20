@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="Tema" android:key="SKTHEME" />
+    <com.baidu.input.pref.MiniModelPref android:title="Tek el modu" android:key="MINIMODE" />
+    <CheckBoxPreference android:title="Kesik çizgili girişi" android:key="showswype" android:defaultValue="false" />
+    <CheckBoxPreference android:title="Tuş basma efekti" android:key="showpress" android:defaultValue="true" />
+    <CheckBoxPreference android:title="Soyutlaşma efekti" android:key="showdragline" android:defaultValue="false" />
+    <CheckBoxPreference android:title="Tuş basma penceresi" android:key="showhint" android:defaultValue="true" />
+    <CheckBoxPreference android:title="Karakter ekranı girişi" android:key="SOFTINPUT" android:defaultValue="true" android:summaryOn="Klavyenin üst kısmında" android:summaryOff="Underline display" />
+    <Preference android:title="@string/candsize" android:key="CANDWORDSIZE" />
+    <com.baidu.input.pref.SeekBarPref android:title="@string/vibrate" android:key="VIBRATE" android:defaultValue="0" />
+    <com.baidu.input.pref.SeekBarPref android:title="@string/keywav" android:key="KEYWAV" android:defaultValue="0" />
+    <CheckBoxPreference android:title="Bir sonraki kelime boşluğu" android:key="SPACE2LX" android:defaultValue="false" />
+    <CheckBoxPreference android:title="Karakter istemi" android:key="KEYMASK" android:defaultValue="false" android:summaryOn="T26 klavyesi" />
+    <CheckBoxPreference android:title="Tam ekran modu" android:key="EXVIEW" android:defaultValue="false" />
+</PreferenceScreen>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boeffla_callsensivity_entries">
+        <item>6</item>
+        <item>15</item>
+        <item>21 (Varsayılan)</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="boeffla_headphone_entries">
+        <item>40</item>
+        <item>50</item>
+        <item>57 (Varsayılan)</item>
+        <item>60</item>
+        <item>63</item>
+    </string-array>
+    <string-array name="boeffla_micsensivity_entries">
+        <item>-16.5</item>
+        <item>-7.5</item>
+        <item>1.5</item>
+        <item>10.5</item>
+        <item>18</item>
+        <item>25.5 (Varsayılan)</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="boeffla_speaker_entries">
+        <item>40</item>
+        <item>50</item>
+        <item>57 (Varsayılan)</item>
+        <item>60</item>
+        <item>63</item>
+    </string-array>
+    <string-array name="camera_switch_entries">
+        <item>@string/camera_switch_cm</item>
+        <item>@string/camera_switch_meizu</item>
+        <item>@string/camera_switch_aosp</item>
+        <item>@string/camera_switch_miui</item>
+    </string-array>
+    <string-array name="led_fade_entries">
+        <item>Kırparak</item>
+        <item>Solarak</item>
+    </string-array>
+    <string-array name="mdnie_mode_entries">
+        <item>Dinamik (Varsayılan)</item>
+        <item>Standard</item>
+        <item>Doğal</item>
+        <item>Sinema</item>
+    </string-array>
+    <string-array name="mdnie_negative_entries">
+        <item>Normal</item>
+        <item>Ters</item>
+    </string-array>
+    <string-array name="mdnie_scenario_entries">
+        <item>Varsayılan</item>
+        <item>Sistem</item>
+        <item>Video</item>
+        <item>Sıcak video</item>
+        <item>Soğuk video</item>
+        <item>Kamera</item>
+        <item>Navigasyon</item>
+        <item>Galeri</item>
+        <item>Bulanık</item>
+    </string-array>
+    <string-array name="power_profile_entries">
+        <item>Aşırı tasarruf</item>
+        <item>Pil tasarrufu</item>
+        <item>Normal</item>
+        <item>Varsayılan</item>
+        <item>Oyun modu</item>
+    </string-array>
+    <string-array name="touch_wake_time_entries">
+        <item>10 saniye</item>
+        <item>30 saniye (Varsayılan)</item>
+        <item>1 dakika</item>
+        <item>2 dakika</item>
+        <item>2 saat</item>
+    </string-array>
+    <string-array name="touchkey_timeout_entries">
+        <item>Asla</item>
+        <item>1 saniye</item>
+        <item>2 saniye</item>
+        <item>3 saniye (Varsayılan)</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+    </string-array>
+    <string-array name="boeffla_callsensivity_entries_values">
+        <item>15</item>
+        <item>21</item>
+        <item>25</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="boeffla_headphone_entries_values">
+        <item>40 40</item>
+        <item>50 50</item>
+        <item>57 57</item>
+        <item>60 60</item>
+        <item>63 63</item>
+    </string-array>
+    <string-array name="boeffla_micsensivity_entries_values">
+        <item>0</item>
+        <item>5</item>
+        <item>12</item>
+        <item>18</item>
+        <item>23</item>
+        <item>28</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="boeffla_speaker_entries_values">
+        <item>40 40</item>
+        <item>50 50</item>
+        <item>57 57</item>
+        <item>60 60</item>
+        <item>63 63</item>
+    </string-array>
+    <string-array name="camera_switch_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="home_layout_switch_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+        <item>4x6</item>
+        <item>5x5</item>
+        <item>5x6</item>
+    </string-array>
+    <string-array name="home_layout_switch_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="led_fade_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="mdnie_mode_entries_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="mdnie_negative_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="mdnie_scenario_entries_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="power_profile_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="touch_wake_time_entries_values">
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>7200</item>
+    </string-array>
+    <string-array name="touchkey_timeout_entries_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

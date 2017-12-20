@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Yeniden adlandır</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galeri</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Adı</item>
+        <item>Kullanıcı adı</item>
+        <item>Telefon</item>
+        <item>E-posta</item>
+        <item>Organizasyon</item>
+        <item>IM</item>
+        <item>Sıp telefon</item>
+        <item>Doğum günü</item>
+        <item>İnternet sitesi</item>
+        <item>Adres</item>
+        <item>Not</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Küçük</item>
+        <item>Varsayılan</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Notlara hoş geldiniz
+"</item>
+        <item>"Bir not oluşturmak için dokunun
+"</item>
+        <item>"Güzel tema seçin
+"</item>
+        <item>"Not klasörü oluşturun
+"</item>
+        <item>"Özel notları koruyun
+"</item>
+        <item>"Daha fazla harika özellikler
+- Mi bulut ile senkronize edin
+- Hatırlatmaları ayarlayın"</item>
+    </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1,guide_3_2</item>
+        <item>guide_4</item>
+        <item>guide_5_1,guide_5_2</item>
+        <item></item>
+    </string-array>
+</resources>

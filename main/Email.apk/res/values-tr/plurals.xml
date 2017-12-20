@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d adet okunmamış ileti</item>
+	    <item quantity="one">%1$d adet okunmamış ileti</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">%1$d konuşma arşivlensin mi?</item>
+        <item quantity="one">Konuşma arşivlensin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$d konuşma silinsin mi?</item>
+        <item quantity="one">Konuşma silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Bu konuşma birleşik ögeler içeriyor. Yinede silinsin mi?</item>
+        <item quantity="one">Bu konuşma birleşik ögeler içeriyor. Yinede silinsin mi?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d seçildi</item>
+        <item quantity="one">%d seçildi</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">%1$d ileti arşivlendi</item>
+        <item quantity="one">%1$d arşivlendi</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">%1$d ileti silindi</item>
+        <item quantity="one">%1$d silindi</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Klasör değiştirildi</item>
+        <item quantity="one">Klasör değiştirildi</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">%1$d konuşma sessize alındı</item>
+        <item quantity="one">%1$d konuşma sessize alındı</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"%1$d ileti önemli klasöründen kaldırıldı"</item>
+        <item quantity="one">"%1$d önemli klasöründen kaldırıldı"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">%1$d spam klasöründen kaldırıldı</item>
+        <item quantity="one">%1$d spam klasöründen kaldırıldı</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">%1$d ileti spam olarak rapor edildi</item>
+        <item quantity="one">%1$d ileti spam olarak rapor edildi</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">%1$d spam olarak işaretlendi</item>
+        <item quantity="one">%1$d spam olarak işaretlendi</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Taslak</item>
+        <item quantity="one">Taslak</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d adet ileti kalıcı olarak silinecek</item>
+        <item quantity="one">%1$d adet ileti kalıcı olarak silinecek</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d konuşmayı taşı</item>
+        <item quantity="one">Konuşmayı taşı</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d yeni mesajı göster</item>
+        <item quantity="one">%1$d yeni mesajı göster</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d adet eski ileti</item>
+        <item quantity="one">%1$d adet eski ileti</item>
+    </plurals>
+</resources>
