@@ -1,3 +1,2 @@
-# Miui Turkish Team
-# Developer
-# Version: 6.6.23
+# MIUITR Team
+# https://forum.miuitr.info/
